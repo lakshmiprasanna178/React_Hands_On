@@ -1,0 +1,19 @@
+.student-card {
+  width: 400px;
+  margin: 50px auto;
+  padding: 25px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.student-card p {
+  font-size: 18px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
